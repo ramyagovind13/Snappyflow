@@ -2,6 +2,8 @@
 
 SnappyFlow is one of my previous employer's (Xorinat) project. Since it is a compnay owned project, I dont have access to codebase.
 
+# Project description
+
 SnappyFlow is an integrated platform for Metrics, Logs, Tracing, Profiling, and Alerting solution. 
 
 It provides the follwing features:
